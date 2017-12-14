@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513247535 source:c:\users\lenovo\desktop\anova\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cal.h"
+
+1513247234 source:c:\users\lenovo\desktop\anova\cal.c
+	<math.h>
+	"cal.h"
+
+1513240456 c:\users\lenovo\desktop\anova\cal.h
+
